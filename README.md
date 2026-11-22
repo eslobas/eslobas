@@ -1,9 +1,9 @@
 ### Hi, I'm Diogo 👋
 
-Front-end focused developer and Software Engineering student at **ISEP** (Porto).
+Front-end focused developer, back-end and DB specialized as well, and Software Engineering student at **ISEP** (Porto).
 I build fast, accessible interfaces with **React, Next.js and TypeScript**, and I know the back-end well enough to connect them to real APIs and data.
 
-- 🌐 Portfolio: [dimension-rho.vercel.app](https://dimension-rho.vercel.app)
+- 🌐 Portfolio: [dimension.pt](https://www.dimension.pt/)
 - 💼 LinkedIn: [diogo-monteiro-b7742324b](https://www.linkedin.com/in/diogo-monteiro-b7742324b/)
 - 📍 Porto, Portugal
 
